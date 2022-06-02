@@ -265,5 +265,9 @@
       "url": "https://osmosis.explorers.guru",
       "tx_page": "https://osmosis.explorers.guru/transaction/${txHash}"
     }
-  ]
+  ],
+  "logo_URIs": {
+    "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
+    "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg"
+  }
 }
