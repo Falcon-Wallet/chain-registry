@@ -165,12 +165,12 @@
     "apis": {
         "rpc": [
             {
-                "address": "https://rpc-cosmoshub.blockapsis.com",
-                "provider": "chainapsis"
-            },
-            {
                 "address": "https://cosmoshub.validator.network/",
                 "provider": "validatornetwork"
+            },
+            {
+                "address": "https://rpc-cosmoshub.blockapsis.com",
+                "provider": "chainapsis"
             },
             {
                 "address": "https://cosmoshub-4.technofractal.com:443",
