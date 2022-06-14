@@ -103,5 +103,9 @@
       "url": "https://cronos.crypto.org/explorer",
       "tx_page": "https://cronos.crypto.org/explorer/tx/${txHash}"
     }
-  ]
+  ],
+  "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/crypto-org-chain/cronos-docs/master/docs/.vuepress/public/cronos.svg",
+        "png": "https://raw.githubusercontent.com/crypto-org-chain/cronos-docs/master/docs/.vuepress/public/CRO_icon.png"
+      }
 }
