@@ -60,10 +60,6 @@
     ],
     "rest": [
       {
-        "address": "https://lcd-secret.scrtlabs.com",
-        "provider": "SCRT Labs"
-      },
-      {
         "address": "https://api.scrt.network",
         "provider": "SCRT Network"
       },
@@ -74,6 +70,10 @@
       {
         "address": "https://secret-4.api.trivium.network:1317",
         "provider": "trivium"
+      },
+      {
+        "address": "https://lcd-secret.scrtlabs.com",
+        "provider": "SCRT Labs"
       }
     ],
     "grpc-web": [
