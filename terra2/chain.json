@@ -53,7 +53,7 @@
         }
     ],
     "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/Falcon-Wallet/chain-registry/master/terra/images/terra.svg",
-        "png": "https://raw.githubusercontent.com/Falcon-Wallet/chain-registry/master/terra/images/terra.png"
+        "svg": "https://raw.githubusercontent.com/Falcon-Wallet/chain-registry/master/terra2/images/terra.svg",
+        "png": "https://raw.githubusercontent.com/Falcon-Wallet/chain-registry/master/terra2/images/terra.png"
     }
 }
