@@ -1,0 +1,39 @@
+{
+  "$schema": "../assetlist.schema.json",
+  "chain_name": "terra",
+  "assets": [
+    {
+      "description": "The native staking token of Terra.",
+      "denom_units": [
+        {
+          "denom": "uluna",
+          "exponent": 0,
+          "aliases": [
+            "microluna"
+          ]
+        },
+        {
+          "denom": "mluna",
+          "exponent": 3,
+          "aliases": [
+            "milliluna"
+          ]
+        },
+        {
+          "denom": "luna",
+          "exponent": 6,
+          "aliases": ["luna"]
+        }
+      ],
+      "base": "uluna",
+      "name": "Luna",
+      "display": "luna",
+      "symbol": "LUNA",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/Falcon-Wallet/chain-registry/master/terra2/images/luna.svg",
+        "png": "https://raw.githubusercontent.com/Falcon-Wallet/chain-registry/master/terra2/images/luna.png"
+      },
+      "coingecko_id": "terra"
+    }
+  ]
+}
