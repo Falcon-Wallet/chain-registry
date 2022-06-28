@@ -8,6 +8,15 @@
     "bech32_prefix": "sif",
     "daemon_name": "sifnoded",
     "node_home": "$HOME/.sifnoded",
+    "slip44": 118,
+    "fees": {
+        "fee_tokens": [
+            {
+                "denom": "rowan",
+                "fixed_min_gas_price": 0
+            }
+        ]
+    },
     "genesis": {
         "genesis_url": "https://github.com/Sifchain/networks/blob/master/betanet/sifchain-1/genesis.json.gz?raw=true"
     },
