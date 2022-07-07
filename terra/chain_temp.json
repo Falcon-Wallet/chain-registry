@@ -18,7 +18,7 @@
                 "fixed_min_gas_price": 1
             }
         ]
-    }
+    },
     "slip44": 330,
     "codebase": {
         "git_repo": "https://github.com/terra-money/core/",
