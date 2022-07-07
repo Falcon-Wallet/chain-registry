@@ -19,7 +19,7 @@
         "fee_tokens": [
             {
                 "denom": "uatom",
-                "fixed_min_gas_price": 0
+                "fixed_min_gas_price": 1
             }
         ]
     },
