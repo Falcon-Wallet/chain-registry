@@ -20,7 +20,7 @@
         "fee_tokens": [
             {
                 "denom": "uosmo",
-                "fixed_min_gas_price": 0
+                "fixed_min_gas_price": 1
             }
         ]
     },
