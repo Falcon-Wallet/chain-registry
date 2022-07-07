@@ -11,6 +11,14 @@
     "genesis": {
         "genesis_url": "https://columbus-genesis.s3.ap-northeast-1.amazonaws.com/columbus-5-genesis.json"
     },
+    "fees": {
+        "fee_tokens": [
+            {
+                "denom": "uluna",
+                "fixed_min_gas_price": 1
+            }
+        ]
+    }
     "slip44": 330,
     "codebase": {
         "git_repo": "https://github.com/terra-money/core/",
