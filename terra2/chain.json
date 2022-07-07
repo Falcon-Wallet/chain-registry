@@ -8,6 +8,14 @@
     "daemon_name": "terrad",
     "node_home": "$HOME/.terra2",
     "bech32_prefix": "terra",
+    "fees": {
+        "fee_tokens": [
+            {
+                "denom": "uluna",
+                "fixed_min_gas_price": 1
+            }
+        ]
+    },
     "genesis": {
         "genesis_url": "https://phoenix-genesis.s3.us-west-1.amazonaws.com/genesis.json"
     },
