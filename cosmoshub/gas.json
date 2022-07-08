@@ -1,4 +1,5 @@
 {
+  "denom": "uatom",
   "limit": 80000,
   "price": {
     "low": 25000,
